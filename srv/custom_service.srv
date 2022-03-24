@@ -1,0 +1,5 @@
+int32 cust_a
+int32 cust_b
+---
+int32 cust_result
+string cust_result_string
